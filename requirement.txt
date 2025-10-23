@@ -1,0 +1,6 @@
+pandas
+tqdm
+pubchempy
+chembl_webresource_client
+requests
+subprocess
